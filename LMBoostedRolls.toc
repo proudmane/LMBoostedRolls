@@ -1,0 +1,12 @@
+## Interface: 20504
+## Title: Loot Master Boosted Rolls
+## Notes: Nothing to be done.
+## Version: 1.0
+## SavedVariables: LMBoostedRollsDB
+
+# This line is a comment
+lua\Main.lua
+lua\CSV.lua
+
+
+lua\RollFrame.lua
